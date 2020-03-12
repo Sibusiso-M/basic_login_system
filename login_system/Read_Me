@@ -4,7 +4,7 @@ Users can login via Email or Username here are some accounts to try.
 Features :
 -uses the latest password hashing (BCript) to store user passwords securly.
 -sessions to dynamically change user content.
--Bootstrap design.
+-Bootstrap framework design.
 
 Accounts:
 usernameUsers , emailUsers      , pwdUsers

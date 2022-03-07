@@ -1,11 +1,13 @@
 This is a login system that prevents SQL injecton.
 The "user.csv" and "user.sql" contain the MySQLi database for the system.
-Users can login via Email or Username here are some accounts to try.
+Users can login via Email or Username.
+
 Features :
 -uses the latest password hashing (BCript) to store user passwords securly.
 -sessions to dynamically change user content.
 -Bootstrap framework design.
 
+Here are some accounts to try.
 Accounts:
 usernameUsers , emailUsers      , pwdUsers
 seconduser    , second@user.com , 1234
